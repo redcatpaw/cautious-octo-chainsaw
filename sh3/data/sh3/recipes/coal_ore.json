@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    "minecraft:coal_block",
+    "minecraft:stone",
+    [
+      "minecraft:cobblestone",
+      "minecraft:sandstone"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:coal_ore",
+    "count": 1
+  }
+}
