@@ -1,0 +1,17 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 2,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type":"item",
+          "name":"minecraft:end_stone",
+          "weight":3
+        }
+      ]
+    }
+  ]
+}
